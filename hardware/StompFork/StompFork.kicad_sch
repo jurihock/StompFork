@@ -3522,8 +3522,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Electrolytic or Polypropylene"
-			(at 51.816 30.48 90)
+		(property "Description" "Electrolytic or Film (PP/MKT)"
+			(at 52.324 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3831,7 +3831,7 @@
 				)
 			)
 		)
-		(property "Value" "Buffered Output 2"
+		(property "Value" "Stompbox Output 2"
 			(at 272.415 124.46 0)
 			(effects
 				(font
@@ -5000,7 +5000,7 @@
 				)
 			)
 		)
-		(property "Value" "Buffered Output 1"
+		(property "Value" "Stompbox Output 1"
 			(at 272.415 92.71 0)
 			(effects
 				(font
