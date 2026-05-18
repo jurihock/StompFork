@@ -6,8 +6,8 @@ Active OpAmp audio signal splitter to feed multiple parallel stompboxes.
 
 - Split one line-level input into three outputs
 - Direct output (unity from input buffer)
-- Stompbox output 1 (level pot + buffer)
-- Stompbox output 2 (level pot + buffer)
+- Stompbox output 1 (level pot + output buffer)
+- Stompbox output 2 (level pot + output buffer)
 
 ## Power supply
 

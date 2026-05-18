@@ -3522,8 +3522,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Electrolytic or Film (PP/MKT)"
-			(at 52.324 30.734 90)
+		(property "Description" "Electrolytic or Film (MKP/MKT)"
+			(at 53.34 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
