@@ -11,14 +11,15 @@ Active OpAmp audio signal splitter to feed multiple parallel stompboxes.
 
 ## Power supply
 
-- Recommended 12-18 V
-- Out of spec at 9 V
+- Recommended 18 V
+- Should work at 12 V
+- May work at 9 V
 - Series schottky protection included
 
 ## Impedance
 
-- Input Hi‑Z (~1 MΩ AC)
-- Output Lo‑Z (~100 Ω AC above 100 Hz)
+- Hi‑Z input (~1 MΩ AC)
+- Lo‑Z output (~100 Ω AC)
 
 ## Similar projects
 
