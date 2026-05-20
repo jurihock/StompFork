@@ -5901,7 +5901,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8ab058bd-d198-472b-81ea-80164aebdd6e")
 		(property "Reference" "RV2"
 			(at 168.91 104.1399 0)
@@ -6981,15 +6980,15 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 127 60.96 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ea68dc4d-cf3b-40ab-aec7-a27e8b7c2871")
 		(property "Reference" "RV1"
-			(at 124.46 59.6899 0)
+			(at 124.46 62.2301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6998,7 +6997,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 124.46 62.2299 0)
+			(at 124.46 59.6901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
