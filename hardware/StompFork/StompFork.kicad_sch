@@ -2427,6 +2427,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Electrolytic or Film (PP/PET)"
+		(exclude_from_sim no)
+		(at 52.324 31.242 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5c669e64-3ca0-462b-b067-bef63e4c4924")
+	)
+	(text "VGND is buffered mid‑rail.\nDo NOT connect to jack sleeves or chassis!"
+		(exclude_from_sim no)
+		(at 101.6 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5f127767-085e-49c6-a442-1ad8df13b7f6")
+	)
+	(text "Polarized or Bipolar (C5-C7)"
+		(exclude_from_sim no)
+		(at 238.252 31.242 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ab8a5c6c-250c-469a-bca1-01ca66bb2df8")
+	)
 	(junction
 		(at 44.45 101.6)
 		(diameter 0)
@@ -4202,12 +4232,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Electrolytic or Film (PP/PET)"
+		(property "Description" "Polarized capacitor"
 			(at 52.324 29.718 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6231,12 +6262,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized or Bipolar (C5-C7)"
+		(property "Description" "Polarized capacitor"
 			(at 238.252 29.718 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
