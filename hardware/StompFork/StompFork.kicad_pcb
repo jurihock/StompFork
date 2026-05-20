@@ -474,7 +474,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C3"
-			(at 2.5 -2.5 90)
+			(at 2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "19d64355-6b0f-4fe5-aa14-4fb6cd1a2820")
 			(effects
@@ -657,7 +657,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=2.54mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 2.54mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R3"
-			(at 1.27 -2.37 90)
+			(at 1.27 2.54 90)
 			(layer "F.SilkS")
 			(uuid "58ec1d70-daea-45c1-93c4-3599006dfa71")
 			(effects
@@ -985,7 +985,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
-			(at 2.5 -2.5 90)
+			(at 2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "f18420a9-c5a9-4e7c-99c5-220d3fe3c622")
 			(effects
@@ -1898,7 +1898,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C10"
-			(at 2.5 -2.5 0)
+			(at 2.54 0 0)
 			(layer "F.SilkS")
 			(uuid "c85c7b12-671e-4b2f-951b-151d8d640b68")
 			(effects
@@ -2774,7 +2774,7 @@
 		(descr "C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=12.5mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 5.00mm diameter 10mm height 12.5mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C6"
-			(at 2.5 -6.25 90)
+			(at 2.46 6.35 90)
 			(layer "F.SilkS")
 			(uuid "facbf339-8312-408b-8216-ed5212b9039f")
 			(effects
@@ -4472,7 +4472,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C4"
-			(at 2.5 -2.5 90)
+			(at 2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "a420b3e4-1363-45e4-9d3d-25bda413970c")
 			(effects
@@ -4655,7 +4655,7 @@
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D1"
-			(at 5.08 -2.47 90)
+			(at 5.08 2.54 90)
 			(layer "F.SilkS")
 			(uuid "d8788fbd-0367-423f-8998-8e2f6ca9cbe3")
 			(effects
@@ -5590,7 +5590,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C8"
-			(at 2.5 -2.5 180)
+			(at 2.54 0 180)
 			(layer "F.SilkS")
 			(uuid "aa0009c4-5a3f-45c6-835a-47758275a8bf")
 			(effects
@@ -5773,7 +5773,7 @@
 		(descr "C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C9"
-			(at 1.25 -4.4 90)
+			(at 1.27 4.469313 90)
 			(layer "F.SilkS")
 			(uuid "5c94dce6-03d1-4f27-a224-7961f1ef6dd8")
 			(effects
@@ -6618,7 +6618,7 @@
 		(descr "C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=12.5mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 5.00mm diameter 10mm height 12.5mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C7"
-			(at 2.5 -6.25 90)
+			(at 2.46 -6.35 90)
 			(layer "F.SilkS")
 			(uuid "c93f8c59-4a98-46fb-b026-d458369dad4f")
 			(effects
@@ -6752,7 +6752,7 @@
 		(descr "C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=12.5mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 5.00mm diameter 10mm height 12.5mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C5"
-			(at 2.5 -6.25 90)
+			(at 2.54 -6.25 90)
 			(layer "F.SilkS")
 			(uuid "3c8028d8-d4ea-448d-a14b-3fdddd4f1d7b")
 			(effects
