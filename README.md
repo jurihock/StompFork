@@ -21,6 +21,21 @@ Active OpAmp audio signal splitter to feed multiple parallel stompboxes.
 - Hi‑Z input (~1 MΩ AC)
 - Lo‑Z output (~100 Ω AC)
 
+## Caps
+
+Depending on your preference, you can use polarized electrolytic caps in the signal path, or you can replace them with "audiophile" caps. For this purpose, the KiCad project includes larger footprints for the alternative parts:
+
+- `C1` generic polypropylene
+- `C5-C7` Nichicon ES bipolar
+
+Make sure you pick the proper voltage rating, e.g. 50 V.
+
+If you decide to use the polarized electrolytic caps for `C1` and `C5-C7`, ensure that the anode `+` is facing the opamp and the cathode `-` is facing the jacks.
+
+## PCB
+
+The circuit should fit on a standard 100x50 mm perfboard. You can save even more space by combining several smaller JST connectors into one larger one.
+
 ## Similar projects
 
 - [The Splitter Kit](https://musikding.de/The-Splitter-kit) by [Das Musikding](https://musikding.de)
