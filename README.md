@@ -23,14 +23,9 @@ Active OpAmp audio signal splitter to feed multiple parallel stompboxes.
 
 ## Caps
 
-Depending on your preference, you can use polarized electrolytic caps in the signal path, or you can replace them with "audiophile" caps. For this purpose, the KiCad project includes larger footprints for the alternative parts:
-
-- `C1` generic polypropylene
-- `C5-C7` Nichicon ES bipolar
+Depending on your preference, you can use polarized electrolytic caps in the signal path, or you can replace them with "audiophile" caps. For this purpose, the KiCad project includes larger footprints for `C1` and `C5-C7`. If you decide to use the polarized electrolytic caps, ensure that the anode `+` is facing the opamp and the cathode `-` is facing the jacks.
 
 Make sure you pick the proper voltage rating, e.g. 50 V.
-
-If you decide to use the polarized electrolytic caps for `C1` and `C5-C7`, ensure that the anode `+` is facing the opamp and the cathode `-` is facing the jacks.
 
 ## PCB
 
